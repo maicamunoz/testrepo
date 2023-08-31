@@ -1,2 +1,2 @@
 ## Adding a new file in child branch
-pritn("Inside Child branch")
+print("Inside Child branch")
